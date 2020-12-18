@@ -4,11 +4,11 @@
 
 Our selected topic was Election results, COVID, and Demographic Data by Counties.
 
-*Reason the topic was selected
-** Current Event 
-** The dataset we selected was fairly easy to navigate
-** There were many topics to conduct our analysis 
-** Our dataset was fairly large.
+* Reason the topic was selected
+* Current Event 
+* The dataset we selected was fairly easy to navigate
+* There were many topics to conduct our analysis 
+* Our dataset was fairly large.
 
 *Description of the source of data
 
@@ -17,19 +17,19 @@ Our data is in a CSV file from from kaggle
 
 *Questions the team hopes to answer with the data
 
-Is there a correlation between COVID cases and voter turnout?
-Is there a relationship between income and voter affiliation?
-How much changed between the 2016 election and the 2020 election?
+* Is there a correlation between COVID cases and voter turnout?
+* Is there a relationship between income and voter affiliation?
+* How much changed between the 2016 election and the 2020 election?
 
-*Description of the data exploration phase of the project
+* Description of the data exploration phase of the project
 
 When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research. 
 
-*Description of the analysis phase of the project
-*Technologies, languages, tools, and algorithms used throughout the project
-*Result of analysis
-*Recommendation for future analysis
-*Anything the team would have done differently
+* Description of the analysis phase of the project
+* Technologies, languages, tools, and algorithms used throughout the project
+* Result of analysis
+* Recommendation for future analysis
+* Anything the team would have done differently
 
 ## ROLES
 * Square- Muhammad
