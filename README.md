@@ -32,7 +32,7 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
 *Anything the team would have done differently
 
 ## ROLES
-Square- Muhammad
-Triangle- Andreea
-Circle- Mylissa
-X- Phil
+* Square- Muhammad
+* Triangle- Andreea
+* Circle- Mylissa
+* X- Phil
