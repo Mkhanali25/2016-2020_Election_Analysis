@@ -27,6 +27,8 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
 
 * Description of the analysis phase of the project
 * Technologies, languages, tools, and algorithms used throughout the project
+    * Considered technologies: SQLite, Jupyter Notebook, Flask App, SQLAlchemy
+
 * Result of analysis
 * Recommendation for future analysis
 * Anything the team would have done differently
