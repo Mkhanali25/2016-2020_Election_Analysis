@@ -31,6 +31,10 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
 * Recommendation for future analysis
 * Anything the team would have done differently
 
+## Machine Learning Model 
+
+For now, we will be conducting a linear regression model for our data. We want to build a model that will predict how different demographics and factors have affected the way people voted in the 2020 election. We also want to see if these demographics and factors have any correlation with the number of covid cases in those areas and if that, in turn, had any correlation with the way that people voted in that area. 
+
 ## ROLES
 * Square- Muhammad
 * Triangle- Andreea
