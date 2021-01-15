@@ -1,8 +1,10 @@
-# Final_Project
-## Overview
-*Selected topic
+# Final Project
 
-**THIS IS A TEST PUSH**
+## Overview
+
+[Link to Presentation Slides](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
+
+### **Selected topic**
 
 Our selected topic was Election results, COVID, and Demographic Data by Counties.
 
@@ -12,12 +14,12 @@ Our selected topic was Election results, COVID, and Demographic Data by Counties
 * There were many topics to conduct our analysis 
 * Our dataset was fairly large.
 
-*Description of the source of data
+### **Description of the source of data**
 
 Our data is in a CSV file from from kaggle 
 (Data Link)[https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv]
 
-*Questions the team hopes to answer with the data
+### **Questions the team hopes to answer with the data**
 
 * Is there a correlation between COVID cases and voter turnout?
 * Is there a relationship between income and voter affiliation?
@@ -37,7 +39,8 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
 
 ## Machine Learning Model 
 
-For now, we will be conducting a linear regression model for our data. We want to build a model that will predict how different demographics and factors have affected the way people voted in the 2020 election. We also want to see if these demographics and factors have any correlation with the number of covid cases in those areas and if that, in turn, had any correlation with the way that people voted in that area. 
+For now, we will be conducting a linear regression model for our data. We want to build a model that will predict how different demographics and factors have affected the way people voted in the 2020 election. We also want to see if these demographics and factors have any correlation with the number of covid cases in those areas and if that, in turn, had any correlation with the way that people voted in that area.
+
 
 ## ROLES
 * Square- Muhammad
