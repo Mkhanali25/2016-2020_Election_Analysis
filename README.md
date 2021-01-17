@@ -12,12 +12,14 @@ Our selected topic was Election results, COVID, and Demographic Data by Counties
 * There were many topics to conduct our analysis 
 * Our dataset was fairly large.
 
-*Description of the source of data
+**Description of the source of data**
 
 Our data is in a CSV file from from kaggle 
 (Data Link)[https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv]
 
-*Questions the team hopes to answer with the data
+![ERD](Resources/QuickDBD_Draft.png)
+
+**Questions the team hopes to answer with the data**
 
 * Is there a correlation between COVID cases and voter turnout?
 * Is there a relationship between income and voter affiliation?
