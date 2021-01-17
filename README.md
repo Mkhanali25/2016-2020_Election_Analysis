@@ -1,8 +1,8 @@
 # Final_Project
 ## Overview
-*Selected topic
+**Selected topic**
 
-**THIS IS A TEST PUSH**
+[Link to Presentation](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
 
 Our selected topic was Election results, COVID, and Demographic Data by Counties.
 
