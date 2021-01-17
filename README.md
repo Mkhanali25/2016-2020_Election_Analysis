@@ -25,9 +25,17 @@ Our data is in a CSV file from from kaggle
 * Is there a relationship between income and voter affiliation?
 * How much changed between the 2016 election and the 2020 election?
 
-* Description of the data exploration phase of the project
+**Description of the data exploration phase of the project**
 
-When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research. 
+When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research. We have broken these columns into the following categories:
+
+    1. Counties
+    2. Election 2016 Results
+    3. Election 2020 Results
+    4. COVID
+    5. County Wealth Distributions 
+    6. County Demographics 
+    7. County Gender Distribution  
 
 * Description of the analysis phase of the project
 * Technologies, languages, tools, and algorithms used throughout the project
