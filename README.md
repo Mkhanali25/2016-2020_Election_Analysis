@@ -25,11 +25,14 @@ Our data is in a CSV file from from kaggle
 * Is there a relationship between income and voter affiliation?
 * How much changed between the 2016 election and the 2020 election?
 
-* Description of the data exploration phase of the project
+**Data exploration phase**
 
-When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research. 
+When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research.
 
-* Description of the analysis phase of the project
+![ERD](Resources/QuickDBD_Draft.png)
+
+**Analysis phase of the project**
+
 * Technologies, languages, tools, and algorithms used throughout the project
     * Considered technologies: SQLite, Jupyter Notebook, Flask App, SQLAlchemy
 
