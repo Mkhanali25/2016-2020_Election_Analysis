@@ -5,9 +5,6 @@
 [Link to Presentation Slides](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
 
 ### **Selected topic**
-**Selected topic**
-
-[Link to Presentation](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
 
 Our selected topic was Election results, COVID, and Demographic Data by Counties.
 
