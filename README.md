@@ -1,8 +1,16 @@
-# Final_Project
+# Final Project
+
 ## Overview
+<<<<<<< HEAD
+
+[Link to Presentation Slides](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
+
+### **Selected topic**
+=======
 **Selected topic**
 
 [Link to Presentation](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
+>>>>>>> e625ef789d24570317c21b20be1f4bb7041cb1b6
 
 Our selected topic was Election results, COVID, and Demographic Data by Counties.
 
@@ -12,19 +20,36 @@ Our selected topic was Election results, COVID, and Demographic Data by Counties
 * There were many topics to conduct our analysis 
 * Our dataset was fairly large.
 
+<<<<<<< HEAD
+### **Description of the source of data**
+=======
 **Description of the source of data**
+>>>>>>> e625ef789d24570317c21b20be1f4bb7041cb1b6
 
 Our data is in a CSV file from from kaggle 
 (Data Link)[https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv]
 
+<<<<<<< HEAD
+### **Questions the team hopes to answer with the data**
+=======
 ![ERD](Resources/QuickDBD_Draft.png)
 
 **Questions the team hopes to answer with the data**
+>>>>>>> e625ef789d24570317c21b20be1f4bb7041cb1b6
 
 * Is there a correlation between COVID cases and voter turnout?
 * Is there a relationship between income and voter affiliation?
 * How much changed between the 2016 election and the 2020 election?
 
+<<<<<<< HEAD
+**Data exploration phase**
+
+When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research.
+
+![ERD](Resources/QuickDBD_Draft.png)
+
+**Analysis phase of the project**
+=======
 **Description of the data exploration phase of the project**
 
 When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research. We have broken these columns into the following categories:
@@ -36,8 +61,8 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
     5. County Wealth Distributions 
     6. County Demographics 
     7. County Gender Distribution  
+>>>>>>> e625ef789d24570317c21b20be1f4bb7041cb1b6
 
-* Description of the analysis phase of the project
 * Technologies, languages, tools, and algorithms used throughout the project
     * Considered technologies: SQLite, Jupyter Notebook, Flask App, SQLAlchemy
 
@@ -47,7 +72,8 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
 
 ## Machine Learning Model 
 
-For now, we will be conducting a linear regression model for our data. We want to build a model that will predict how different demographics and factors have affected the way people voted in the 2020 election. We also want to see if these demographics and factors have any correlation with the number of covid cases in those areas and if that, in turn, had any correlation with the way that people voted in that area. 
+For now, we will be conducting a linear regression model for our data. We want to build a model that will predict how different demographics and factors have affected the way people voted in the 2020 election. We also want to see if these demographics and factors have any correlation with the number of covid cases in those areas and if that, in turn, had any correlation with the way that people voted in that area.
+
 
 ## ROLES
 * Square- Muhammad
