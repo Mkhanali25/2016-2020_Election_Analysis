@@ -1,8 +1,15 @@
 # Final_Project
 ## Overview
+<<<<<<< HEAD
 **Selected topic**
 
 [Link to Presentation](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
+=======
+
+[Link to Presentation Slides](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
+
+### **Selected topic**
+>>>>>>> 83e55cc05cf5523e516533d9c47dc2f4722b9269
 
 Our selected topic was Election results, COVID, and Demographic Data by Counties.
 
