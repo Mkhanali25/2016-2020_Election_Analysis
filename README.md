@@ -17,9 +17,7 @@ Our selected topic was Election results, COVID, and Demographic Data by Counties
 * There were many topics to conduct our analysis 
 * Our dataset was fairly large.
 
-<<<<<<< HEAD
 ### **Description of the source of data**
-=======
 **Description of the source of data**
 
 Our data is in a CSV file from from kaggle 
@@ -42,7 +40,7 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
 ![ERD](Resources/QuickDBD_Draft.png)
 
 **Analysis phase of the project**
-=======
+
 **Description of the data exploration phase of the project**
 
 When exploring our dataset we had a fairly large amount of columns and rows. Based off the data we selected certain columns to further research. We have broken these columns into the following categories:
