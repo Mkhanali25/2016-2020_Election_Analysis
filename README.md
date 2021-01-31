@@ -71,6 +71,10 @@ Why Logistic Regression?
 
 
 ## Result of analysis
+![2016 confusion matrix](https://github.com/Mkhanali25/Final_Project/blob/main/Images/2016_confusion.png)
+![2020 confusion matrix](https://github.com/Mkhanali25/Final_Project/blob/main/Images/2020_confusion.png)
+![Biden Clusters](https://github.com/Mkhanali25/Final_Project/blob/main/Images/Biden_cluster.png)
+![Trump Clusters](https://github.com/Mkhanali25/Final_Project/blob/main/Images/Trump_cluster.png)
 
 
 
