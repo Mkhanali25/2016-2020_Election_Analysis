@@ -81,7 +81,9 @@ Since we recieved near perfect results for our 2016 election, I had predicted th
 
 ### Clustering
 After completing our Logistic regression model and recieving great results for it, I wanted to cluster our data points to better analyze the data. By clustering our data we can see with more clarity the types of relationships each variable has. To start I wanted to compare the types of income with poverty to see how they would vote for a certain candidate. After clustering income, poverty, and the votes per candidate we can see which class voted for which candidate. It turns out more upper class and upper middle class counties voted for Trump. Whereas more lower middle class and poverty filled counties voted for Biden.
+
 ![Biden Clusters](https://github.com/Mkhanali25/Final_Project/blob/main/Images/Biden_cluster.png)
+
 ![Trump Clusters](https://github.com/Mkhanali25/Final_Project/blob/main/Images/Trump_cluster.png)
 
 
