@@ -57,15 +57,27 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
       - Tableau
       - Amazon Web Services 
 
+
+## Machine Learning Model
+After cleaning our dataset we will be conducting an logistic regression model for our data. We want to build a model that will predict how different demographics and factors have affected the way people voted in the 2020 election. We also want to see if these demographics and factors have any correlation with the number of covid cases in those areas and if that, in turn, had any correlation with the way that people voted in that area. 
+
+Why Logistic Regression? 
+* This is the best fit Machine Learning Model for our data
+* Supervised Machine Learning→ classification
+* Answers the question of “who did people vote for in both elections?”
+* Explains the relationship between one dependant binary variable and multiple independent variables
+* Target → who won each state
+* Features → Votes per candidate, Covid data, Demographics data, wealth data
+
+
 ## Result of analysis
+
+
+
 
 **Recommendation for future analysis**
 
 **Anything the team would have done differently**
-
-## Machine Learning Model
-
-For now, we will be conducting a linear regression model for our data. We want to build a model that will predict how different demographics and factors have affected the way people voted in the 2020 election. We also want to see if these demographics and factors have any correlation with the number of covid cases in those areas and if that, in turn, had any correlation with the way that people voted in that area. 
 
 ## ROLES
 
