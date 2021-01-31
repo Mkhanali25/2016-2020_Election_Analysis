@@ -71,8 +71,16 @@ Why Logistic Regression?
 
 
 ## Result of analysis
+### 2016 Election Analysis
+After we ran our logistic regression model we were presented with our results. Based off the results for the 2016 confusion matrix we can see that our model accurately predicts our results. We can see that becuase of our accuracy score of .998. That alone wasn't enough for us to use so we decided to create a confusion matrix. After further analysis we can see that our confusion matrix is reinforcing our accuracy score. Our precision (PPV), recall, and F1 scores are near perfect. This tells us that our model is accurately predicting our results.
 ![2016 confusion matrix](https://github.com/Mkhanali25/Final_Project/blob/main/Images/2016_confusion.png)
+
+### 2020 Election Analysis
+Since we recieved near perfect results for our 2016 election, I had predicted that the 2020 results would be relatively similar. Our accuracy score was .997 which is almost the same as the 2016 anaylsis. The same goes for our confusion matrix as well. The results are nearly identical to the 2016 election which tells us that our logistic regression model is working. 
 ![2020 confusion matrix](https://github.com/Mkhanali25/Final_Project/blob/main/Images/2020_confusion.png)
+
+### Clustering
+After completing our Logistic regression model and recieving great results for it, I wanted to cluster our data points to better analyze the data. By clustering our data we can see with more clarity the types of relationships each variable has. To start I wanted to compare the types of income with poverty to see how they would vote for a certain candidate. After clustering income, poverty, and the votes per candidate we can see which class voted for which candidate. It turns out more upper class and upper middle class counties voted for Trump. Whereas more lower middle class and poverty filled counties voted for Biden.
 ![Biden Clusters](https://github.com/Mkhanali25/Final_Project/blob/main/Images/Biden_cluster.png)
 ![Trump Clusters](https://github.com/Mkhanali25/Final_Project/blob/main/Images/Trump_cluster.png)
 
@@ -80,12 +88,18 @@ Why Logistic Regression?
 
 
 **Recommendation for future analysis**
+There are various things we could do additionally to make the predictions and analysis more accurate: 
+* Analyze data from the 2012 election to determine trends
+* Demographic and economic data should be included for all election years involved in order to predict accurate demographic and economic trends
+* Beginning with the Tableau dashboard (we left it towards the end) helped visualize our data and assess trends very easily and would have helped us in building our machine learning model more efficiently
+
+
 
 **Anything the team would have done differently**
 
-## ROLES
+* The dataset had information for the 2016 and 2020 election, however, the latest public demographic and economic data is from 2017, so this dataset can't be used to find demographic and economic shifts in counties and states between 2016 and 2020
+* Finding a solution to duplicate county names in different states and making sure that we had unique values of “County, State” 
+** This was more challenging in terms of the machine learning model. In Tableau, I was able to make a new measure and filter for “County, State” 
+* Planning the project structure and having clear roles and duties for our team members
 
-* Square- Muhammad
-* Triangle- Andreea
-* Circle- Mylissa
-* X- Phil
+
