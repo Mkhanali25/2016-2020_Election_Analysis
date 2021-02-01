@@ -4,22 +4,26 @@
 
 [Link to Presentation Slides](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
 
-### Files
+### **Files**
 
 ### **Selected topic**
 
 Our selected topic was Election results, COVID, and Demographic Data by Counties.
 
 Reasons the topic was selected:
-* Current Event 
+
+* Current Event
 * The dataset we selected was fairly easy to navigate
-* There were many topics to conduct our analysis 
+* There were many topics to conduct our analysis
 * Our dataset was fairly large with enough columns and values to complete an analysis.
 
 ### **Description of the source of data**
 
 Our data is in a CSV file from from kaggle
-[Data Link](https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv)
+
+[Kaggle link to data](https://www.kaggle.com/etsc9287/2020-general-election-polls?select=county_statistics.csv)
+
+**Entity Relationship Diagram**
 
 ![ERD](Resources/QuickDBD_Draft.png)
 
@@ -45,7 +49,7 @@ When exploring our dataset we had a fairly large amount of columns and rows. Bas
 
 ### Tableau
 
-- [Link to 2016-2017 Election Analysis Storyboard on Tableau Pubic](https://public.tableau.com/profile/carolina4264#!/vizhome/2016-2020ElectionAnalysis/2016and2020ElectionResultsAnalysis)
+[Link to 2016-2017 Election Analysis Storyboard on Tableau Pubic](https://public.tableau.com/profile/carolina4264#!/vizhome/2016-2020ElectionAnalysis/2016and2020ElectionResultsAnalysis)
 
 ### **Technologies, languages, tools, and algorithms used**
 
