@@ -93,7 +93,7 @@ A basic Linear Regression was applied to the cleaned_county_data.csv to show an 
 
 ## Machine Learning 2 Results
 
-![pltresults](url)
+![pltresults](https://github.com/Mkhanali25/2016-2020_Election_Analysis/blob/Mylissa/pltresults.png?raw=true)
 
 Our plots in the image represent the republican vote in red and the democrat vote in dark blue from both the 2016 election on top and the 2020 election results on the bottom. From the plots, we are able to make accurate predictions with the best fit line that future elections will continue in the trend shown above. There seemed to be slight change from the democrat linear regression and visualizes a slight increase in percentage of votes based on a higher income. Republican votes seemed to stay similar in the two different elections. The counties with higher incomes proved to vote more democrat than republican.
 
