@@ -1,5 +1,7 @@
 # Final_Project
 
+The purpose of this project was to analyze 2016 and 2020 election and COVID data and make predictions using machine learning models such as a Linear Regression Model and Clustering and create a visualization of the data in Tableau. 
+
 ## Overview
 
 [Link to Presentation Slides](https://docs.google.com/presentation/d/1xdDUYNJqjwQh7HjSNzms4qzsJXtMZ27hIY0XhTGuiYQ/edit#slide=id.p)
